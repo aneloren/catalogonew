@@ -1,0 +1,270 @@
+   {
+      "id": 1,
+      "nombre": "Ovalados Diseño Mariposas",
+      "tipo": "lentes ópticos",
+      "estilo": "Diseño",
+      "descripcion": "Marco ovalado con detalles de mariposas. El material es Nylon 11, flexible, ecológico y resistente para niñas.",
+      "precio": 70000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/ovalados_diseno_mariposas.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_ovalados_diseno_mariposas.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Ovalados Diseño Perro",
+      "tipo": "lentes ópticos",
+      "estilo": "Diseño",
+      "descripcion": "Marco ovalado con temática de perro. El material es Nylon 11, flexible, ecológico y resistente para niños.",
+      "precio": 70000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/ovalados_diseno_perro.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_ovalados_diseno_perro.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Ovalados Diseño Princesa",
+      "tipo": "lentes ópticos",
+      "estilo": "Diseño",
+      "descripcion": "Marco ovalado con diseño inspirado en princesas. El material es Nylon 11, flexible, ecológico y resistente para niñas.",
+      "precio": 70000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/ovalados_diseno_princesa.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_ovalados_diseno_princesa.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Ovalados Fucsia",
+      "tipo": "lentes ópticos",
+      "estilo": "Clásico",
+      "descripcion": "Marco ovalado clásico en color fucsia. El material es Nylon 12, estructura rígida y un acabado impecable para niñas.",
+      "precio": 55000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/ovalados_fucsia.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_ovalados_fucsia.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Ovalados Negros Varillas Rojas",
+      "tipo": "lentes ópticos",
+      "estilo": "Clásico",
+      "descripcion": "Marco ovalado negro con varillas en contraste rojo. El material es Nylon 12, estructura rígida y un acabado impecable para niños y niñas.",
+      "precio": 55000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/ovalados_negros_varillas_rojas.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_ovalados_negros_varillas_rojas.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Rectangulares Azul",
+      "tipo": "lentes ópticos",
+      "estilo": "Clásico",
+      "descripcion": "Marco rectangular en color azul sólido. El material es Nylon 12, estructura rígida y un acabado impecable para niños.",
+      "precio": 55000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/rectangulares_azul.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_rectangulares_azul.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Rectangulares Café",
+      "tipo": "lentes ópticos",
+      "estilo": "Clásico",
+      "descripcion": "Marco rectangular clásico en tono café. El material es Nylon 12, estructura rígida y un acabado impecable para niños y niñas.",
+      "precio": 55000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/rectangulares_cafe.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_rectangulares_cafe.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Rectangulares Morado",
+      "tipo": "lentes ópticos",
+      "estilo": "Clásico",
+      "descripcion": "Marco rectangular en color morado. El material es Nylon 12, estructura rígida y un acabado impecable para niñas.",
+      "precio": 55000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/rectangulares_morados.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_rectangulares_morados.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Redondos Azules",
+      "tipo": "lentes ópticos",
+      "estilo": "Clásico",
+      "descripcion": "Marco redondo clásico en color azul. El material es Nylon 12, estructura rígida y un acabado impecable para niños.",
+      "precio": 55000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/redondos_azul.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_redondos_azul.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Redondos Café",
+      "tipo": "lentes ópticos",
+      "estilo": "Clásico",
+      "descripcion": "Marco redondo en color café. El material es Nylon 12, estructura rígida y un acabado impecable para niños y niñas.",
+      "precio": 55000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/redondos_cafe.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_redondos_cafe.png"
+    },
+    {
+      "id": 11,
+      "nombre": "Redondos Camel",
+      "tipo": "lentes ópticos",
+      "estilo": "Clásico",
+      "descripcion": "Marco redondo en tono camel suave. El material es Nylon 12, estructura rígida y un acabado impecable para niños y niñas.",
+      "precio": 55000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/redondos_camel.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_redondos_camel.png"
+    },
+   {
+      "id": 12,
+      "nombre": "Redondos Diseño Celeste Rosado",
+      "tipo": "lentes ópticos",
+      "estilo": "Diseño",
+      "descripcion": "Marco redondo de colores pasteles celeste rosado. El material es Nylon 11, flexible, ecológico y resistente para niñas.",
+      "precio": 70000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/redondos_diseno_celestes_rosados.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_redondos_diseno_celestes_rosados.png"
+    },
+   {
+      "id": 13,
+      "nombre": "Redondos Diseño Celeste Varillas Rosadas",
+      "tipo": "lentes ópticos",
+      "estilo": "Diseño",
+      "descripcion": "Marco redondo de colores pasteles celeste rosado. El material es Nylon 11, flexible, ecológico y resistente para niños y niñas.",
+      "precio": 70000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/redondos_diseno_celestes_varillas_rosadas.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_redondos_diseno_celestes_varillas_rosadas.png"
+    },
+    {
+      "id": 14,
+      "nombre": "Redondos Diseño Estrella Rosados",
+      "tipo": "lentes ópticos",
+      "estilo": "Diseño",
+      "descripcion": "Marco redondo de colores pasteles rosado y diseño estrella. El material es Nylon 11, flexible, ecológico y resistente para niñas.",
+      "precio": 70000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/redondos_diseno_estrella_rosados.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_redondos_diseno_estrella_rosados.png"
+    },
+    {
+      "id": 15,
+      "nombre": "Redondos Diseño Rayas Celeste",
+      "tipo": "lentes ópticos",
+      "estilo": "Diseño",
+      "descripcion": "Marco redondo de colores pasteles rayas celestes. El material es Nylon 11, flexible, ecológico y resistente para niñas.",
+      "precio": 70000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/redondos_diseno_rayas_celeste.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_redondos_diseno_rayas_celeste.png"
+    },
+    {
+      "id": 16,
+      "nombre": "Redondos Negro",
+      "tipo": "lentes ópticos",
+      "estilo": "Clásico",
+      "descripcion": "Marco redondo clásico en color negro. El material es Nylon 12, estructura rígida y un acabado impecable para niños y niñas",
+      "precio": 55000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/redondos_negros.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_redondos_negros.png"
+    },
+    {
+      "id": 17,
+      "nombre": "Redondos Rojo",
+      "tipo": "lentes ópticos",
+      "estilo": "Clásico",
+      "descripcion": "Marco redondo en color rojo vibrante. El material es Nylon 12, estructura rígida y un acabado impecable para niños y niñas.",
+      "precio": 55000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/redondos_rojos.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_redondos_rojos.png"
+    },
+    {
+      "id": 18,
+      "nombre": "Sol Diseño Dinosaurio",
+      "tipo": "lentes de sol",
+      "estilo": "Diseño",
+      "descripcion": "Lentes de sol con temática de dinosaurio. El material es Nylon 11, ecológico, flexible y resistente para niños.",
+      "precio": 75000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/sol_diseno_dinosaurio.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_sol_diseno_dinosaurio.png"
+    },
+    {
+      "id": 19,
+      "nombre": "Sol Diseño Flores",
+      "tipo": "lentes de sol",
+      "estilo": "Diseño",
+      "descripcion": "Lentes de sol con diseño de flores. El material es Nylon 11, ecológico, flexible y resistente para niñas.",
+      "precio": 75000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/sol_diseno_flores.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_sol_diseno_flores.png"
+    },
+    {
+      "id": 20,
+      "nombre": "Sol Ovalados Azul Rey",
+      "tipo": "lentes de sol",
+      "estilo": "Clásico",
+      "descripcion": "Lentes de sol ovalados en color azul rey. El material es Nylon 12, estructura rígida y un acabado impecable para niños.",
+      "precio": 65000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/sol_ovalados_azul_rey.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_sol_ovalados_azul_rey.png"
+    },
+    {
+      "id": 21,
+      "nombre": "Sol Ovalados Celeste",
+      "tipo": "lentes de sol",
+      "estilo": "Clásico",
+      "descripcion": "Lentes de sol ovalados en tono celeste. El material es Nylon 12, estructura rígida y un acabado impecable para niños y niñas.",
+      "precio": 65000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/sol_ovalados_celeste.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_sol_ovalados_celeste.png"
+    },
+    {
+      "id": 22,
+      "nombre": "Sol Ovalados Fucsia",
+      "tipo": "lentes de sol",
+      "estilo": "Clásico",
+      "descripcion": "Lentes de sol ovalados en color fucsia. El material es Nylon 12, estructura rígida y un acabado impecable para niñas.",
+      "precio": 65000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/sol_ovalados_fucsia.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_sol_ovalados_fucsia.png"
+    },
+    {
+      "id": 23,
+      "nombre": "Sol Ovalados Lila",
+      "tipo": "lentes de sol",
+      "estilo": "Clásico",
+      "descripcion": "Lentes de sol ovalados en color lila. El material es Nylon 12, estructura rígida y un acabado impecable para niñas.",
+      "precio": 65000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/sol_ovalados_lila.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_sol_ovalados_lila.png"
+    },
+    {
+      "id": 24,
+      "nombre": "Sol Ovalados Transparentes",
+      "tipo": "lentes de sol",
+      "estilo": "Clásico",
+      "descripcion": "Lentes de sol con marco ovalado transparente. El material es Nylon 12, estructura rígida y un acabado impecable para niños y niñas.",
+      "precio": 65000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/sol_ovalados_transparentes.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_sol_ovalados_transparentes.png"
+    },
+    {
+      "id": 25,
+      "nombre": "Sol Rectangulares Verdes",
+      "tipo": "lentes de sol",
+      "estilo": "Clásico",
+      "descripcion": "Lentes de sol rectangulares en color verde. El material es Nylon 12, estructura rígida y un acabado impecable para niños.",
+      "precio": 65000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/sol_rectangulares_verdes.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_sol_rectangulares_verdes.png"
+    },
+    {
+      "id": 26,
+      "nombre": "Sol Redondos Morados",
+      "tipo": "lentes de sol",
+      "estilo": "Clásico",
+      "descripcion": "Lentes de sol redondos en tono morado. El material es Nylon 12, estructura rígida y un acabado impecable para niñas.",
+      "precio": 65000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/sol_redondos_morados.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_sol_redondos_morados.png"
+    },
+    {
+      "id": 27,
+      "nombre": "Sol Redondos Negros",
+      "tipo": "lentes de sol",
+      "estilo": "Clásico",
+      "descripcion": "Lentes de sol redondos clásicos en negro. El material es Nylon 12, estructura rígida y un acabado impecable para niños y niñas.",
+      "precio": 65000,
+      "imagen": "https://raw.githubusercontent.com/aneloren/catalogonew/main/sol_redondos_negros.png",
+      "imagenFrontal": "https://raw.githubusercontent.com/aneloren/catalogonew/main/frontal_sol_redondos_negros.png"
+    }
